@@ -35,5 +35,5 @@ api = create_api()
         print(f'Updating twitter Name: Tejashree M {emoji_follower_count(user)}')
         print("Waiting to refresh..")
         time.sleep(60) 
-  
+    
     
